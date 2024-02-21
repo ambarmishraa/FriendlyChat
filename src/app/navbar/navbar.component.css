@@ -1,0 +1,42 @@
+
+.nav-bar{
+    background-color: #15F5BA;
+    padding-left: 10px;
+    display: flex;
+    position: fixed;
+    width:100vw;
+}
+
+.app-icon{
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.profile-image{
+    height: 50px;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+p{
+    margin-top: 16px;
+    font-size: 25px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.more-button{
+    height: 25px;
+    margin-top: 25px;
+    margin-right:30px;
+}
+
+.more-box{
+    height:120px;
+    width:180px;
+    background-color:grey;
+    position:fixed;
+    right: 0px;
+    top:69px;
+}

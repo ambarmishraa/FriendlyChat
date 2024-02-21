@@ -1,0 +1,48 @@
+.footer{
+    display: flex;
+    width:100vw;
+    justify-content: center;
+    position: fixed;
+    bottom: 0px;
+    background-color: rgb(188, 183, 183);
+    position: fixed;
+    width:100vw;
+    
+}
+
+.footer-child{
+    width:90%;
+    display: flex;
+    justify-content: center;
+    padding:10px 0px;
+
+
+}
+
+.footer-child input{
+    display: flex;
+width:70%;
+height: 40px;
+border-radius: 100px;
+border-color: white;
+}
+
+.text-option{
+    background-color: #b8e8db;
+}
+
+input::placeholder {
+  color: black; /* Change this to the desired color */
+  font-size: large;
+  text-align: center;
+}
+
+.add-icon{
+    margin-top: 10px;
+    height: 45px;
+}
+
+.enter-icon{
+    margin-top: 10px;
+    height: 45px;
+}

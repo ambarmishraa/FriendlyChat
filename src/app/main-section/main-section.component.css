@@ -1,0 +1,11 @@
+.text{
+    display:flex;
+    width:100vw;
+    justify-content: center;
+}
+
+.text-child{
+    width:80%;
+    background-color: #E0F4FF;
+    height: 100vw;
+}
